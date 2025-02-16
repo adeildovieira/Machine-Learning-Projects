@@ -5,7 +5,7 @@ For learning Machine Learning, I am using the book "Hands-On Machine Learning wi
 
 In this repo, as the semester goes, I will post:
 1. My coding assessment on SVMs;
-2. Class exercises/projects I had on:
+2. Class exercises/projects I had on Week 2 & 5 (so far) on:
    Supervised and Unsupervised learning;
    Over-fitting, under-fitting, and bias;
    Choosing decision trees, random forests, or support vector machines;
